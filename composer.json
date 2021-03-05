@@ -1,0 +1,14 @@
+{
+    "name": "ambimax/magento-module-vsf-bridge",
+    "license": "MIT",
+    "type": "magento-module",
+    "description": "",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*"
+    },
+    "authors":[
+        {
+            "name":"DivanteLtd"
+        }
+    ]
+}

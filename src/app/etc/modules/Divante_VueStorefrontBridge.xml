@@ -4,7 +4,6 @@
         <Divante_VueStorefrontBridge>
             <active>true</active>
             <codePool>local</codePool>
-            <depends></depends>
         </Divante_VueStorefrontBridge>
     </modules>
 </config>
